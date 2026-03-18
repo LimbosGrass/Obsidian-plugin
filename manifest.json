@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-timeline-plugin",
+  "name": "时间轴插件",
+  "version": "1.0.1",
+  "minAppVersion": "0.16.0",
+  "description": "该插件汇总仓库待办事项，按照时间顺序显示在竖向时间轴两侧；并可以在事项上添加备注信息",
+  "author": "LimbosGass",
+  "authorUrl": "https://github.com/yourusername/obsidian-timeline-plugin",
+  "isDesktopOnly": false,
+  "icon": "icon.svg"
+}
